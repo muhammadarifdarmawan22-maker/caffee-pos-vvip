@@ -1,0 +1,6 @@
+
+UPLOAD SEMUA FILE KE REPLIT
+
+1. Ganti TOKEN di main.py
+2. Klik RUN
+SELESAI
